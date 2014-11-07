@@ -2,7 +2,6 @@ package com.multicampus.biz.board.impl;
 
 import java.sql.SQLException;
 import java.util.List;
-
 import com.ibatis.sqlmap.client.SqlMapClient;
 import com.multicampus.biz.board.BoardVO;
 import com.multicampus.biz.util.SqlMapClientFactoryBean;
