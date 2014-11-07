@@ -3,7 +3,7 @@ package com.multicampus.biz.board.impl;
 import java.sql.SQLException;
 import java.util.List;
 
-import com.multicampus.biz.board.vo.BoardVO;
+import com.multicampus.biz.board.BoardVO;
 
 public class BoardDAOClient {
 	

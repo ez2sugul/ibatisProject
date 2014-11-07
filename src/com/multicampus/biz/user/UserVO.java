@@ -1,4 +1,4 @@
-package com.multicampus.biz.user.vo;
+package com.multicampus.biz.user;
 
 public class UserVO {
 	private String id;

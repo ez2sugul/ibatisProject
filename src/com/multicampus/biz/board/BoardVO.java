@@ -1,4 +1,4 @@
-package com.multicampus.biz.board.vo;
+package com.multicampus.biz.board;
 
 import java.sql.Date;
 
